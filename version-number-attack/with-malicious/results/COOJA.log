@@ -1,0 +1,46 @@
+[17:17:28 - main] [Cooja.java:3172] [WARN] - JAVA_HOME environment variable not set, Cooja motes may not compile
+[17:17:28 - main] [Cooja.java:2856] [INFO] - External tools default settings: /external_tools_linux_64.config
+[17:17:28 - main] [Cooja.java:2886] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[17:17:29 - main] [Simulation.java:422] [INFO] - Simulation random seed: 6700523426920163066
+[17:17:29 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Experiments/version-number-attack/with-malicious/motes/root.z1
+[17:17:31 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Experiments/version-number-attack/with-malicious/motes/sensor.z1
+[17:17:31 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Experiments/version-number-attack/with-malicious/motes/sensor.z1
+[17:17:31 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Experiments/version-number-attack/with-malicious/motes/sensor.z1
+[17:17:31 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Experiments/version-number-attack/with-malicious/motes/sensor.z1
+[17:17:32 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Experiments/version-number-attack/with-malicious/motes/sensor.z1
+[17:17:32 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Experiments/version-number-attack/with-malicious/motes/sensor.z1
+[17:17:32 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Experiments/version-number-attack/with-malicious/motes/sensor.z1
+[17:17:32 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Experiments/version-number-attack/with-malicious/motes/sensor.z1
+[17:17:32 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Experiments/version-number-attack/with-malicious/motes/sensor.z1
+[17:17:32 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Experiments/version-number-attack/with-malicious/motes/sensor.z1
+[17:17:32 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Experiments/version-number-attack/with-malicious/motes/malicious.z1
+[17:17:34 - main] [ScriptRunner.java:430] [INFO] - Test script deactivated
+[17:17:35 - main] [LogScriptEngine.java:265] [INFO] - Script timeout in 120000 ms
+[17:17:36 - main] [ScriptRunner.java:387] [INFO] - Test script activated
+[17:17:37 - main] [Visualizer.java:256] [INFO] - Registered external visualizer: org.contikios.cooja.plugins.skins.DGRMVisualizerSkin
+[17:17:37 - main] [VisualizerScreenshot.java:79] [INFO] - Starting visualizer screenshot
+[17:17:37 - main] [PcapExporter.java:36] [INFO] - Opened pcap file /home/user/Experiments/version-number-attack/with-malicious/data/output.pcap
+[17:17:37 - main] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[17:17:37 - Thread-3] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1541780257772
+[17:17:48 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 5.00%, done in 229.1 sec
+[17:17:52 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 10.00%, done in 146.5 sec
+[17:18:04 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 15.00%, done in 160.2 sec
+[17:18:13 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 20.00%, done in 149.1 sec
+[17:18:20 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 25.00%, done in 131.1 sec
+[17:18:31 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 30.00%, done in 127.6 sec
+[17:18:35 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 35.00%, done in 110.4 sec
+[17:18:40 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 40.00%, done in 96.4 sec
+[17:18:46 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 45.00%, done in 85.7 sec
+[17:18:50 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 50.00%, done in 74.1 sec
+[17:18:55 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 55.00%, done in 64.4 sec
+[17:19:00 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 60.00%, done in 56.0 sec
+[17:19:06 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 65.00%, done in 48.2 sec
+[17:19:10 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 70.00%, done in 40.5 sec
+[17:19:15 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 75.00%, done in 32.9 sec
+[17:19:23 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 80.00%, done in 26.9 sec
+[17:19:29 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 85.00%, done in 19.9 sec
+[17:19:35 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 90.00%, done in 13.2 sec
+[17:19:38 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 95.00%, done in 6.4 sec
+[17:19:43 - Thread-3] [LogScriptEngine.java:375] [INFO] - Timeout event @ 120000000
+[17:19:43 - Thread-2] [LogScriptEngine.java:309] [INFO] - Test script finished
+[17:19:43 - Thread-3] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1541780383314	Duration: 125542 ms	Simulated time 120060 ms	Ratio 0.9563333386436411

@@ -1,0 +1,45 @@
+[17:19:57 - main] [Cooja.java:3172] [WARN] - JAVA_HOME environment variable not set, Cooja motes may not compile
+[17:19:57 - main] [Cooja.java:2856] [INFO] - External tools default settings: /external_tools_linux_64.config
+[17:19:57 - main] [Cooja.java:2886] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[17:19:58 - main] [Simulation.java:422] [INFO] - Simulation random seed: 3007208984767668130
+[17:19:58 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Experiments/blackhole-attack/without-malicious/motes/root.z1
+[17:19:59 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Experiments/blackhole-attack/without-malicious/motes/sensor.z1
+[17:20:00 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Experiments/blackhole-attack/without-malicious/motes/sensor.z1
+[17:20:00 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Experiments/blackhole-attack/without-malicious/motes/sensor.z1
+[17:20:00 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Experiments/blackhole-attack/without-malicious/motes/sensor.z1
+[17:20:00 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Experiments/blackhole-attack/without-malicious/motes/sensor.z1
+[17:20:00 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Experiments/blackhole-attack/without-malicious/motes/sensor.z1
+[17:20:00 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Experiments/blackhole-attack/without-malicious/motes/sensor.z1
+[17:20:00 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Experiments/blackhole-attack/without-malicious/motes/sensor.z1
+[17:20:01 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Experiments/blackhole-attack/without-malicious/motes/sensor.z1
+[17:20:01 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/Experiments/blackhole-attack/without-malicious/motes/sensor.z1
+[17:20:02 - main] [ScriptRunner.java:430] [INFO] - Test script deactivated
+[17:20:03 - main] [LogScriptEngine.java:265] [INFO] - Script timeout in 120000 ms
+[17:20:04 - main] [ScriptRunner.java:387] [INFO] - Test script activated
+[17:20:04 - main] [Visualizer.java:256] [INFO] - Registered external visualizer: org.contikios.cooja.plugins.skins.DGRMVisualizerSkin
+[17:20:04 - main] [VisualizerScreenshot.java:79] [INFO] - Starting visualizer screenshot
+[17:20:04 - main] [PcapExporter.java:36] [INFO] - Opened pcap file /home/user/Experiments/blackhole-attack/without-malicious/data/output.pcap
+[17:20:05 - main] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[17:20:05 - Thread-3] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1541780405255
+[17:20:13 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 5.00%, done in 173.8 sec
+[17:20:22 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 10.00%, done in 167.0 sec
+[17:20:29 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 15.00%, done in 142.0 sec
+[17:20:32 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 20.00%, done in 113.0 sec
+[17:20:38 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 25.00%, done in 101.3 sec
+[17:20:40 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 30.00%, done in 84.0 sec
+[17:20:46 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 35.00%, done in 77.6 sec
+[17:20:46 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 40.00%, done in 63.5 sec
+[17:20:50 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 45.00%, done in 57.0 sec
+[17:20:53 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 50.00%, done in 49.4 sec
+[17:20:54 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 55.00%, done in 41.2 sec
+[17:20:58 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 60.00%, done in 36.4 sec
+[17:20:59 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 65.00%, done in 29.8 sec
+[17:21:04 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 70.00%, done in 25.9 sec
+[17:21:05 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 75.00%, done in 20.5 sec
+[17:21:06 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 80.00%, done in 15.5 sec
+[17:21:09 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 85.00%, done in 11.5 sec
+[17:21:10 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 90.00%, done in 7.4 sec
+[17:21:18 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 95.00%, done in 3.9 sec
+[17:21:24 - Thread-3] [LogScriptEngine.java:375] [INFO] - Timeout event @ 120000000
+[17:21:24 - Thread-3] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1541780484384	Duration: 79129 ms	Simulated time 120000 ms	Ratio 1.5165110136612368
+[17:21:24 - Thread-2] [LogScriptEngine.java:309] [INFO] - Test script finished
