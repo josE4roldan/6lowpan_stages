@@ -17,6 +17,8 @@ def reorder(dataframe):
 
 def numtodic(strnum):
     nuevodic = {}
+    if(str(strnum[0])==""):
+        return ""
     nuevodic["MQTT.messageLength"] = int(strnum[0:2])
     if (str(strnum[2:4])=="00"):
         nuevodic["info"]="ADVERTISE"
@@ -93,7 +95,7 @@ if __name__ == '__main__':
         raise FileNotFoundError(errno.ENOENT, os.strerror(errno.ENOENT), filename)
     else:
         df_conv = pd.read_csv(args.file_path,error_bad_lines=False)
-        df_conv['Data'] = df_conv["Data"].apply(lambda x: numtodic(x))
+        df_conv['Data'] = df_conv["Data"].apply(lambda x: numtodic(str(x)))
         df_conv["MQTT.flags"]=df_conv["Data"].apply(lambda x: x["MQTT.flags"] if "MQTT.flags" in x else -1)
         df_conv["MQTT.message"]=df_conv["Data"].apply(lambda x: x["MQTT.message"] if "MQTT.message" in x else -1)
         df_conv["MQTT.messageLength"]=df_conv["Data"].apply(lambda x: x["MQTT.messageLength"] if "MQTT.message" in x else -1)
